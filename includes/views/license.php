@@ -436,7 +436,7 @@ if ( $is_active ) {
                         <?php 
                         printf(
                             esc_html__( 'Updates are fetched from %s', 'woo-nalda-sync' ),
-                            '<a href="https://github.com/3AG-App/woo-nalda-sync/releases" target="_blank">GitHub Releases</a>'
+                            '<a href="https://github.com/3agApp/woo-nalda-sync/releases" target="_blank">GitHub Releases</a>'
                         ); 
                         ?>
                     </p>

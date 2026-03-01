@@ -19,7 +19,7 @@ class WNS_Updater {
     /**
      * GitHub repository owner
      */
-    const GITHUB_OWNER = '3AG-App';
+    const GITHUB_OWNER = '3agApp';
 
     /**
      * GitHub repository name
